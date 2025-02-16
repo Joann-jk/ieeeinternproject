@@ -82,7 +82,7 @@ const Home = () => {
               mb: 2
             }}
           >
-            Elevate Your Style
+            Elevate Your Style With our Brand
           </Typography>
 
           <Typography 
